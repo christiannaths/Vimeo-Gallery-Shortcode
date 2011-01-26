@@ -1,0 +1,7 @@
+[vimeo (video_id=string OR album_id=string OR user_id=string), style=string width=integer, height=integer]
+
+Options:
+
+video_id - the ID number for a video clip hosted on Vimeo. Passed as a quoted string.
+album_id - the ID number for a Vimeo album. Passed as a quoted string.
+user_id - the username of a 

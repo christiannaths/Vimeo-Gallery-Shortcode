@@ -1,0 +1,99 @@
+#icon-vimeo{
+  background: url(vimeo.png) center center no-repeat;
+}
+
+form#vgs-settings .field{
+  margin-bottom:4px;
+}
+
+form#vgs-settings .field label, form#vgs-settings .field.inline .inline p.post-label{
+  display: inline-block;
+  width: 170px;
+  padding-right: 10px;
+  margin: 0;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+form#vgs-settings .field.defaults label{
+  width: 300px;
+}
+
+
+form#vgs-settings .field.dimension p.hint{
+  margin-top: 0;
+  padding-left: 184px;
+  font-size: 0.8em;
+  font-style: italic;
+}
+
+form#vgs-settings .field input[type='text']{
+  width: 30em;
+}
+
+form#vgs-settings .field.defaults input[type='text']{
+  width: 4em;
+}
+
+form#vgs-settings h3{
+  margin-top: 30px;
+}
+
+form#vgs-settings .field.submit{
+  margin-top:30px;
+}
+
+form#vgs-settings .field-group{
+  overflow: hidden;
+  clear:both;
+  float: none;
+}
+
+form#vgs-settings .field-group p.hint{
+  overflow: hidden;
+  clear:both;
+  float: none;
+}
+
+form#vgs-settings .field.inline{
+  float: left;
+}
+
+form#vgs-settings .field.inline label, form#vgs-settings .field.inline .inline p.post-label{
+  width: auto;
+  padding: 4px 10px 4px 4px;
+}
+
+form#vgs-settings .field.inline .inline p.post-label{
+  margin-left: -10px;
+}
+
+form#vgs-settings .field.inline input{
+  float: left;
+  margin-right: 20px;
+}
+
+form#vgs-settings .field.inline .inline{
+  float: left;
+}
+
+
+
+#vgs-instructions{
+  margin-top: 30px;
+  border-top: 1px solid #ccc;
+}
+
+#vgs-instructions h3{
+  margin-top: 30px;
+}
+
+
+table#vgs-arguments td span.argument-title{
+  display: inline-block;
+  padding-right: 10px;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  text-align: left;
+}
